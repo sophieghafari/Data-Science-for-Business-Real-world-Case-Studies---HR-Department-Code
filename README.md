@@ -47,4 +47,4 @@ This HR module demonstrates a complete, code-driven machine-learning workflow fo
 ## Note from Me
 The data was provided by the HR Department section of a Udemy course called "Data Science for Business | 6 Real-world Case Studies." 
 
-In the process I managed to build the full machine-learning pipeline on my own, relying primarily on my independent understanding rather than the course videos or slides.My primary purpose of using Udemy was as a validation to my final work as well as a way to get useable clean data. 
+In the process I managed to build the full machine-learning pipeline on my own, relying primarily on my independent understanding rather than the course videos or slides. My primary purpose of using Udemy was as a validation to my final work as well as a way to get useable clean data.
